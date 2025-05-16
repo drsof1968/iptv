@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 ,ABC
+http://luong.utako.moe/abc/index.m3u8
+#EXTINF:-1 ,BS Asahi
+http://luong.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 ,BS Fuji
+http://luong.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 ,BS NTV
+http://luong.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 ,NHK BS4K
+http://luong.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 ,BS TBS
+http://luong.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 ,BS TV Tokyo
+http://luong.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 ,JSport 1
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 ,JSport 2
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 ,JSport 3
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 ,JSport 4
+http://luong.utako.moe/js4/index.m3u8
+#EXTINF:-1 ,Kansai TV
+http://luong.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 ,KBS
+http://luong.utako.moe/kbs/index.m3u8
+#EXTINF:-1 ,MBS
+http://luong.utako.moe/mbs/index.m3u8
+#EXTINF:-1 ,TOKYO MX2 (test)
+http://luong.utako.moe/mx2test/index.m3u8
+#EXTINF:-1 ,Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 ,Space Shower TV
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 ,SUN
+http://luong.utako.moe/suntv/index.m3u8
+#EXTINF:-1 ,TBS Channel 1
+http://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 ,TBS Channel 2
+http://luong.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 ,TV Osaka
+http://luong.utako.moe/tvo/index.m3u8
+#EXTINF:-1 ,WOWOW Cinema
+http://luong.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 ,WOWOW Live
+http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 ,WOWOW Prime
+http://luong.utako.moe/wprime/index.m3u8
+#EXTINF:-1 ,ytv
+http://luong.utako.moe/ytv/index.m3u8
+#EXTINF:-1 ,Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 ,AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 ,BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 ,Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 ,NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 ,NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 ,program
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 ,NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 ,TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 ,TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 ,TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 ,TV Tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 ,QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
